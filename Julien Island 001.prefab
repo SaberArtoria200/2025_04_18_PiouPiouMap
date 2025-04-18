@@ -1526,7 +1526,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 616
+  m_VersionIndex: 721
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -1602,6 +1602,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2149182012389222447}
     m_Modifications:
+    - target: {fileID: 402420377302779151, guid: e64af8ced3c1c8b458a51d2851908883, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a8776ed7517e2534893e4998d7ba26ae, type: 2}
     - target: {fileID: 1575841985831190112, guid: e64af8ced3c1c8b458a51d2851908883, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.2083741
